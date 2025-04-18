@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Node
+node_modules/
+dist/
+
+# VSCode
+.vscode/
+
+# 기타
+.env
